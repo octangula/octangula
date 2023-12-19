@@ -12,7 +12,6 @@ vVVVv (___) wWWWw         (___)  vVVVv
 if you would like to get in contact with me:
 discord: @uqc
 youtube: /user/november
-email:   euphoricinertiaalt@gmail.com
 ```
 
 <!--
