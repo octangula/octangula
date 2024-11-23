@@ -13,5 +13,5 @@
 
 if you would like to get in contact with me:
 discord: @uqc
-youtube: /user/november
+youtube: /user/November
 ```
