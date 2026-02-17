@@ -10,8 +10,10 @@
     \ |     \ |/       | / \ | /  \|/       |/    \|      \|/
     \\|//   \\|///  \\\|//\\\|/// \|///  \\\|//  \\|//  \\\|// 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+music: https://www.last.fm/user/n|l
 
 if you would like to get in contact with me:
-discord: @uqc
-youtube: /November
+signal: rika.11
+email: admin@rika.services
+discord: @uqc (inactive)
 ```
