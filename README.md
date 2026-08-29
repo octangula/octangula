@@ -14,8 +14,6 @@ music: https://www.last.fm/user/n|l
 
 if you would like to get in contact with me:
 signal: rika.11
-email: admin@rika.services
-discord: @uqc (inactive)
 
 this will be more active from now on ^-^
 ```
